@@ -10,7 +10,7 @@
   *  [Installation](#Installation)
   *  [License](#License)
   *  [Contributors](#contributers)
-  *  [Test](#Test)
+  *  [Technologies](#Technologies)
   *  [Questions](#Questions)
 
   ## Description
@@ -38,7 +38,15 @@ Filter the users by at least one property.
   ## Contributers
   
 
-  ## Test
+ #### Technologies
+
+- JavaScript
+- NPM Modules
+- Axios
+- Visual Studio Code
+- React.js
+- Package.json
+- API
   
 
   ## Question
