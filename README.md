@@ -1,8 +1,8 @@
-# Employees-Directory# 
+# Employee-Directory# 
 [Click here to go to the live site](https://AdrianStorr.github.io/Employee-Directory/)
 
 
-![picture](./Employee-directory/public/employeeDirectory.png)
+![picture](./Employee-Directory/public/employeeDirectory.png)
 
   ## Table of Contents
   *  [Description](#Description)
