@@ -2,7 +2,7 @@
 [Click here to go to the live site](https://AdrianStorr.github.io/Employee-Directory/)
 
 
-![picture](./Employee-Directory/public/employeeDirectory.png)
+![picture](./EmployeeDirectory/public/employeeDirectory.png)
 
   ## Table of Contents
   *  [Description](#Description)
