@@ -28,7 +28,7 @@ Sort the table by at least one category
 Filter the users by at least one property.
   
   ##  Instuctions
-  In the terminal create React for application, then run npm install followed by npm start.
+ First create and import components to Employees.js and import react to the app.js. Next, in the terminal create React for application, then run npm install followed by npm start. Finally, install github pages and deploy application.
 
  
 
