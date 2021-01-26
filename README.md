@@ -28,7 +28,7 @@ Sort the table by at least one category
 Filter the users by at least one property.
   
   ##  Instuctions
-  In the terminal create React for application, then run npm install followed by npm install.
+  In the terminal create React for application, then run npm install followed by npm start.
 
  
 
