@@ -1,4 +1,4 @@
-# Employee-Directory# 
+# Employee-Directory# React
 [Click here to go to the live site](https://AdrianStorr.github.io/Employee-Directory/)
 
 
