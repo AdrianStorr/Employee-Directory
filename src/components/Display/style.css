@@ -5,7 +5,7 @@
     position: relative;
   }
   
-  .hero::after {
+  .Display::after {
     content: "";
     display: block;
     opacity: .4;
@@ -17,17 +17,17 @@
     background: black;
   }
   
-  .hero * {
+  .Display * {
     position: relative;
     z-index: 2;
   }
   
-  .hero h1, .hero h2 {
+  .Display h1, .hero h2 {
     color: white;
   }
   
-  .hero h1 {
-    font-size: 60px;
+  .Display h1 {
+    font-size: 50px;
     padding-top: 140px;
     margin-top: 0;
   }
